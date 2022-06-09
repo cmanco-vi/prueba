@@ -1,0 +1,10 @@
+Didier,Cucuta,on
+Camilo,Bogota,off
+Camila,Bogota,on
+Elizabeth,Palmira,on
+Crihstian,Medellin,off
+Matias,Cali,off
+Mabel,Barranquilla,on
+Esneider,Cartagena,off
+Miguel,Santa Marta,on
+Aura,Bucaramanga,off
